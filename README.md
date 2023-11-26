@@ -1,2 +1,0 @@
-# megaruby.github.io
-mysite
